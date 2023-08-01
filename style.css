@@ -1,5 +1,5 @@
 :root {
-  --size-wheel: 20rem;
+  --size-wheel: 22rem;
 }
 
 html {
@@ -24,8 +24,8 @@ body {
 .msg {
   min-height: 4rem;
   font-family: Arial, Helvetica, sans-serif;
-  margin-top: 0.5rem;
-  text-transform: capitalize;
+  margin-top: 1rem;
+  padding: 0 20px;
 }
 
 ul {
