@@ -28,6 +28,16 @@ body {
   padding: 0 20px;
 }
 
+.img-wrapper {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.img-wrapper img {
+  height: 100px;
+}
+
 ul {
   position: relative;
   padding: 0;
